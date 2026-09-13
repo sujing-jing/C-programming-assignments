@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "숙제 1. 프로그램 코멘트 작성하기", "숙제 1. 프로그램 코멘트 작성하기\숙제 1. 프로그램 코멘트 작성하기.vcxproj", "{045EE4A6-3264-4915-B665-189068D7D360}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{045EE4A6-3264-4915-B665-189068D7D360}.Debug|x64.ActiveCfg = Debug|x64
+		{045EE4A6-3264-4915-B665-189068D7D360}.Debug|x64.Build.0 = Debug|x64
+		{045EE4A6-3264-4915-B665-189068D7D360}.Debug|x86.ActiveCfg = Debug|Win32
+		{045EE4A6-3264-4915-B665-189068D7D360}.Debug|x86.Build.0 = Debug|Win32
+		{045EE4A6-3264-4915-B665-189068D7D360}.Release|x64.ActiveCfg = Release|x64
+		{045EE4A6-3264-4915-B665-189068D7D360}.Release|x64.Build.0 = Release|x64
+		{045EE4A6-3264-4915-B665-189068D7D360}.Release|x86.ActiveCfg = Release|Win32
+		{045EE4A6-3264-4915-B665-189068D7D360}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {194D3DAB-F97C-473D-8E03-1046E0962350}
+	EndGlobalSection
+EndGlobal
